@@ -1,0 +1,1129 @@
+Capital,State,Capital,State,Miles,Seconds
+Little Rock,AR,Montgomery,AL,470,24615
+Little Rock,AR,Phoenix,AZ,1298,68368
+Phoenix,AZ,Montgomery,AL,1712,89970
+Sacramento,CA,Montgomery,AL,2419,126273
+Sacramento,CA,Little Rock,AR,1958,102466
+Sacramento,CA,Phoenix,AZ,755,41321
+Denver,CO,Montgomery,AL,1427,73583
+Denver,CO,Little Rock,AR,966,49776
+Denver,CO,Phoenix,AZ,821,45937
+Denver,CO,Sacramento,CA,1166,61969
+Hartford,CT,Montgomery,AL,1138,62180
+Hartford,CT,Little Rock,AR,1355,72901
+Hartford,CT,Phoenix,AZ,2537,135159
+Hartford,CT,Sacramento,CA,2922,154154
+Hartford,CT,Denver,CO,1880,99592
+Dover,DE,Montgomery,AL,894,48682
+Dover,DE,Little Rock,AR,1113,60241
+Dover,DE,Phoenix,AZ,2360,127024
+Dover,DE,Sacramento,CA,2813,149153
+Dover,DE,Denver,CO,1745,93764
+Dover,DE,Hartford,CT,284,16328
+Tallahassee,FL,Montgomery,AL,211,13427
+Tallahassee,FL,Little Rock,AR,672,37736
+Tallahassee,FL,Phoenix,AZ,1884,97746
+Tallahassee,FL,Sacramento,CA,2561,136849
+Tallahassee,FL,Denver,CO,1630,86595
+Tallahassee,FL,Hartford,CT,1216,65216
+Tallahassee,FL,Dover,DE,964,51539
+Atlanta,GA,Montgomery,AL,161,8647
+Atlanta,GA,Little Rock,AR,519,27844
+Atlanta,GA,Phoenix,AZ,1807,95417
+Atlanta,GA,Sacramento,CA,2467,129688
+Atlanta,GA,Denver,CO,1402,73390
+Atlanta,GA,Hartford,CT,986,54081
+Atlanta,GA,Dover,DE,735,40404
+Atlanta,GA,Tallahassee,FL,261,15748
+Des Moines,IA,Montgomery,AL,928,50266
+Des Moines,IA,Little Rock,AR,616,31970
+Des Moines,IA,Phoenix,AZ,1398,77268
+Des Moines,IA,Sacramento,CA,1712,88863
+Des Moines,IA,Denver,CO,671,34302
+Des Moines,IA,Hartford,CT,1209,65609
+Des Moines,IA,Dover,DE,1102,60541
+Des Moines,IA,Tallahassee,FL,1139,63448
+Des Moines,IA,Atlanta,GA,895,49067
+Des Moines,IA,Boise,ID,1361,70150
+Des Moines,IA,Springfield,IL,339,18216
+Des Moines,IA,Indianapolis,IN,478,25728
+Boise,ID,Montgomery,AL,2152,114459
+Boise,ID,Little Rock,AR,1770,91644
+Boise,ID,Phoenix,AZ,925,51156
+Boise,ID,Sacramento,CA,553,30922
+Boise,ID,Denver,CO,814,43380
+Boise,ID,Hartford,CT,2568,135568
+Boise,ID,Dover,DE,2461,130501
+Boise,ID,Tallahassee,FL,2363,127641
+Boise,ID,Atlanta,GA,2169,113907
+Springfield,IL,Montgomery,AL,652,34521
+Springfield,IL,Little Rock,AR,444,24440
+Springfield,IL,Phoenix,AZ,1553,82195
+Springfield,IL,Sacramento,CA,1958,102854
+Springfield,IL,Denver,CO,913,47608
+Springfield,IL,Hartford,CT,1043,57044
+Springfield,IL,Dover,DE,869,48977
+Springfield,IL,Tallahassee,FL,863,47703
+Springfield,IL,Atlanta,GA,619,33322
+Springfield,IL,Boise,ID,1607,84140
+Indianapolis,IN,Montgomery,AL,568,29866
+Indianapolis,IN,Little Rock,AR,584,30856
+Indianapolis,IN,Phoenix,AZ,1700,89951
+Indianapolis,IN,Sacramento,CA,2189,114301
+Indianapolis,IN,Denver,CO,1085,56691
+Indianapolis,IN,Hartford,CT,836,45699
+Indianapolis,IN,Dover,DE,662,37633
+Indianapolis,IN,Tallahassee,FL,779,43048
+Indianapolis,IN,Atlanta,GA,534,28667
+Indianapolis,IN,Boise,ID,1838,95587
+Indianapolis,IN,Springfield,IL,213,12089
+Topeka,KS,Montgomery,AL,841,46150
+Topeka,KS,Little Rock,AR,483,25212
+Topeka,KS,Phoenix,AZ,1149,64403
+Topeka,KS,Sacramento,CA,1697,88304
+Topeka,KS,Denver,CO,541,27776
+Topeka,KS,Hartford,CT,1384,74596
+Topeka,KS,Dover,DE,1210,66529
+Topeka,KS,Tallahassee,FL,1052,59331
+Topeka,KS,Atlanta,GA,863,45874
+Topeka,KS,Des Moines,IA,255,13610
+Topeka,KS,Boise,ID,1345,69591
+Topeka,KS,Springfield,IL,371,20025
+Topeka,KS,Indianapolis,IN,547,29350
+Frankfort,KY 40601,Montgomery,AL,488,25956
+Frankfort,KY 40601,Little Rock,AR,555,29856
+Frankfort,KY 40601,Phoenix,AZ,1771,93772
+Frankfort,KY 40601,Sacramento,CA,2280,119987
+Frankfort,KY 40601,Denver,CO,1162,60920
+Frankfort,KY 40601,Hartford,CT,848,46673
+Frankfort,KY 40601,Dover,DE,643,35636
+Frankfort,KY 40601,Tallahassee,FL,668,37304
+Frankfort,KY 40601,Atlanta,GA,407,21755
+Frankfort,KY 40601,Des Moines,IA,639,34353
+Frankfort,KY 40601,Boise,ID,1928,101273
+Frankfort,KY 40601,Springfield,IL,376,20724
+Frankfort,KY 40601,Indianapolis,IN,166,9446
+Frankfort,KY 40601,Topeka,KS,621,33365
+Baton Rouge,LA,Montgomery,AL,367,18933
+Baton Rouge,LA,Little Rock,AR,343,21641
+Baton Rouge,LA,Phoenix,AZ,1443,74980
+Baton Rouge,LA,Sacramento,CA,2139,114399
+Baton Rouge,LA,Denver,CO,1208,65797
+Baton Rouge,LA,Hartford,CT,1482,79008
+Baton Rouge,LA,Dover,DE,1241,66356
+Baton Rouge,LA,Tallahassee,FL,443,22942
+Baton Rouge,LA,Atlanta,GA,526,27138
+Baton Rouge,LA,Des Moines,IA,989,53236
+Baton Rouge,LA,Boise,ID,2021,108300
+Baton Rouge,LA,Springfield,IL,760,39769
+Baton Rouge,LA,Indianapolis,IN,846,44505
+Baton Rouge,LA,Topeka,KS,781,46081
+Baton Rouge,LA,Frankfort,KY 40601,798,42004
+Boston,MA,Montgomery,AL,1237,67757
+Boston,MA,Little Rock,AR,1454,78478
+Boston,MA,Phoenix,AZ,2639,140879
+Boston,MA,Sacramento,CA,3017,159454
+Boston,MA,Denver,CO,1975,104892
+Boston,MA,Hartford,CT,102,5984
+Boston,MA,Dover,DE,382,21843
+Boston,MA,Tallahassee,FL,1307,70186
+Boston,MA,Atlanta,GA,1076,59309
+Boston,MA,Des Moines,IA,1305,70871
+Boston,MA,Boise,ID,2665,140740
+Boston,MA,Springfield,IL,1146,62828
+Boston,MA,Indianapolis,IN,937,51287
+Boston,MA,Topeka,KS,1483,80063
+Boston,MA,Frankfort,KY 40601,949,52515
+Boston,MA,Baton Rouge,LA,1583,85119
+Boston,MA,Annapolis,MD,423,24456
+Boston,MA,Augusta,ME 04330,162,9273
+Annapolis,MD,Montgomery,AL,833,44633
+Annapolis,MD,Little Rock,AR,1052,56191
+Annapolis,MD,Phoenix,AZ,2299,122975
+Annapolis,MD,Sacramento,CA,2752,145104
+Annapolis,MD,Denver,CO,1684,89714
+Annapolis,MD,Hartford,CT,326,18859
+Annapolis,MD,Dover,DE,64.9,4684
+Annapolis,MD,Tallahassee,FL,903,47062
+Annapolis,MD,Atlanta,GA,672,36184
+Annapolis,MD,Des Moines,IA,1040,56522
+Annapolis,MD,Boise,ID,2401,126390
+Annapolis,MD,Springfield,IL,806,44923
+Annapolis,MD,Indianapolis,IN,597,33382
+Annapolis,MD,Topeka,KS,1143,62159
+Annapolis,MD,Frankfort,KY 40601,580,31609
+Annapolis,MD,Baton Rouge,LA,1181,62832
+Annapolis,MD,Augusta,ME 04330,578,32368
+Augusta,ME 04330,Montgomery,AL,1389,75618
+Augusta,ME 04330,Little Rock,AR,1607,86338
+Augusta,ME 04330,Phoenix,AZ,2791,148739
+Augusta,ME 04330,Sacramento,CA,3170,167314
+Augusta,ME 04330,Denver,CO,2128,112752
+Augusta,ME 04330,Hartford,CT,254,13844
+Augusta,ME 04330,Dover,DE,534,29703
+Augusta,ME 04330,Tallahassee,FL,1460,78047
+Augusta,ME 04330,Atlanta,GA,1228,67169
+Augusta,ME 04330,Des Moines,IA,1457,78731
+Augusta,ME 04330,Boise,ID,2818,148600
+Augusta,ME 04330,Springfield,IL,1299,70688
+Augusta,ME 04330,Indianapolis,IN,1090,59147
+Augusta,ME 04330,Topeka,KS,1636,87924
+Augusta,ME 04330,Frankfort,KY 40601,1101,60375
+Augusta,ME 04330,Baton Rouge,LA,1736,92979
+Lansing,MI,Montgomery,AL,816,42867
+Lansing,MI,Little Rock,AR,835,44291
+Lansing,MI,Phoenix,AZ,1942,102918
+Lansing,MI,Sacramento,CA,2247,117421
+Lansing,MI,Denver,CO,1205,62860
+Lansing,MI,Hartford,CT,722,39742
+Lansing,MI,Dover,DE,673,37403
+Lansing,MI,Tallahassee,FL,1027,56049
+Lansing,MI,Atlanta,GA,775,40764
+Lansing,MI,Des Moines,IA,535,28839
+Lansing,MI,Boise,ID,1896,98708
+Lansing,MI,Springfield,IL,392,21407
+Lansing,MI,Indianapolis,IN,254,13862
+Lansing,MI,Topeka,KS,761,40759
+Lansing,MI,Frankfort,KY 40601,394,21655
+Lansing,MI,Baton Rouge,LA,1099,57904
+Lansing,MI,Boston,MA,780,43048
+Lansing,MI,Annapolis,MD,612,33490
+Lansing,MI,Augusta,ME 04330,933,50977
+St Paul,MN,Montgomery,AL,1155,60124
+St Paul,MN,Little Rock,AR,863,44751
+St Paul,MN,Phoenix,AZ,1645,90048
+St Paul,MN,Sacramento,CA,1900,99877
+St Paul,MN,Denver,CO,918,47082
+St Paul,MN,Hartford,CT,1291,69931
+St Paul,MN,Dover,DE,1184,64864
+St Paul,MN,Tallahassee,FL,1367,73306
+St Paul,MN,Atlanta,GA,1122,58925
+St Paul,MN,Des Moines,IA,248,13090
+St Paul,MN,Boise,ID,1460,76226
+St Paul,MN,Springfield,IL,520,27426
+St Paul,MN,Indianapolis,IN,588,31419
+St Paul,MN,Topeka,KS,502,26359
+St Paul,MN,Frankfort,KY 40601,756,40433
+St Paul,MN,Baton Rouge,LA,1216,64600
+St Paul,MN,Boston,MA,1385,74896
+St Paul,MN,Annapolis,MD,1123,60951
+St Paul,MN,Augusta,ME 04330,1538,82825
+St Paul,MN,Lansing,MI,626,33393
+Jefferson City,MO,Montgomery,AL,719,37923
+Jefferson City,MO,Little Rock,AR,345,20931
+Jefferson City,MO,Phoenix,AZ,1380,73399
+Jefferson City,MO,Sacramento,CA,1877,98517
+Jefferson City,MO,Denver,CO,759,39450
+Jefferson City,MO,Hartford,CT,1207,65446
+Jefferson City,MO,Dover,DE,1033,57379
+Jefferson City,MO,Tallahassee,FL,930,51105
+Jefferson City,MO,Atlanta,GA,686,36724
+Jefferson City,MO,Des Moines,IA,256,15993
+Jefferson City,MO,Boise,ID,1525,79803
+Jefferson City,MO,Springfield,IL,193,11936
+Jefferson City,MO,Indianapolis,IN,370,20200
+Jefferson City,MO,Topeka,KS,219,11895
+Jefferson City,MO,Frankfort,KY 40601,444,24125
+Jefferson City,MO,Baton Rouge,LA,719,40562
+Jefferson City,MO,Boston,MA,1308,71127
+Jefferson City,MO,Annapolis,MD,972,53466
+Jefferson City,MO,Augusta,ME 04330,1461,79056
+Jefferson City,MO,Lansing,MI,583,32816
+Jefferson City,MO,St Paul,MN,503,28343
+Jefferson City,MO,Jackson,MS,545,31681
+Jackson,MS,Montgomery,AL,247,14452
+Jackson,MS,Little Rock,AR,262,15219
+Jackson,MS,Phoenix,AZ,1470,76175
+Jackson,MS,Sacramento,CA,2131,112934
+Jackson,MS,Denver,CO,1226,64473
+Jackson,MS,Hartford,CT,1319,70608
+Jackson,MS,Dover,DE,1078,57956
+Jackson,MS,Tallahassee,FL,436,24309
+Jackson,MS,Atlanta,GA,382,20053
+Jackson,MS,Des Moines,IA,815,44225
+Jackson,MS,Boise,ID,2030,106288
+Jackson,MS,Springfield,IL,586,30758
+Jackson,MS,Indianapolis,IN,672,35494
+Jackson,MS,Topeka,KS,714,39624
+Jackson,MS,Frankfort,KY 40601,622,33151
+Jackson,MS,Baton Rouge,LA,175,9370
+Jackson,MS,Boston,MA,1418,76187
+Jackson,MS,Annapolis,MD,1017,54044
+Jackson,MS,Augusta,ME 04330,1571,84116
+Jackson,MS,Lansing,MI,923,48970
+Jackson,MS,St Paul,MN,1007,55161
+Helena,MT,Montgomery,AL,2038,109476
+Helena,MT,Little Rock,AR,1680,88538
+Helena,MT,Phoenix,AZ,1144,61299
+Helena,MT,Sacramento,CA,1013,53786
+Helena,MT,Denver,CO,792,41212
+Helena,MT,Hartford,CT,2335,125116
+Helena,MT,Dover,DE,2228,120049
+Helena,MT,Tallahassee,FL,2249,122658
+Helena,MT,Atlanta,GA,2055,108924
+Helena,MT,Des Moines,IA,1177,62107
+Helena,MT,Boise,ID,488,27004
+Helena,MT,Springfield,IL,1492,79284
+Helena,MT,Indianapolis,IN,1632,86604
+Helena,MT,Topeka,KS,1236,66491
+Helena,MT,Frankfort,KY 40601,1800,95618
+Helena,MT,Baton Rouge,LA,1994,106180
+Helena,MT,Boston,MA,2429,130081
+Helena,MT,Annapolis,MD,2167,116137
+Helena,MT,Augusta,ME 04330,2582,138010
+Helena,MT,Lansing,MI,1670,88578
+Helena,MT,St Paul,MN,1049,55750
+Helena,MT,Jefferson City,MO,1412,74943
+Helena,MT,Jackson,MS,1914,103218
+Raleigh,NC,Montgomery,AL,566,30584
+Raleigh,NC,Little Rock,AR,886,47765
+Raleigh,NC,Phoenix,AZ,2175,115339
+Raleigh,NC,Sacramento,CA,2790,147831
+Raleigh,NC,Denver,CO,1672,88764
+Raleigh,NC,Hartford,CT,625,34695
+Raleigh,NC,Dover,DE,373,21018
+Raleigh,NC,Tallahassee,FL,618,31993
+Raleigh,NC,Atlanta,GA,405,22135
+Raleigh,NC,Des Moines,IA,1101,60465
+Raleigh,NC,Boise,ID,2438,129117
+Raleigh,NC,Springfield,IL,837,46836
+Raleigh,NC,Indianapolis,IN,628,35295
+Raleigh,NC,Topeka,KS,1132,61209
+Raleigh,NC,Frankfort,KY 40601,516,28914
+Raleigh,NC,Baton Rouge,LA,931,49167
+Raleigh,NC,Boston,MA,723,40274
+Raleigh,NC,Annapolis,MD,313,17106
+Raleigh,NC,Augusta,ME 04330,877,48204
+Raleigh,NC,Lansing,MI,732,41334
+Raleigh,NC,St Paul,MN,1208,65720
+Raleigh,NC,Jefferson City,MO,954,51930
+Raleigh,NC,Jackson,MS,787,42169
+Raleigh,NC,Helena,MT,2255,121044
+Raleigh,NC,Lincoln,NE,1265,69049
+Raleigh,NC,Concord,NH,772,42714
+Raleigh,NC,Trenton,NJ,452,24992
+Raleigh,NC,Santa Fe,NM,1748,92093
+Raleigh,NC,Carson City,NV,2686,141768
+Raleigh,NC,Albany,NY,648,35431
+Bismarck,ND,Montgomery,AL,1588,82555
+Bismarck,ND,Little Rock,AR,1212,62471
+Bismarck,ND,Phoenix,AZ,1480,82057
+Bismarck,ND,Sacramento,CA,1492,79531
+Bismarck,ND,Denver,CO,695,38056
+Bismarck,ND,Hartford,CT,1724,92362
+Bismarck,ND,Dover,DE,1617,87295
+Bismarck,ND,Tallahassee,FL,1800,95737
+Bismarck,ND,Atlanta,GA,1555,81356
+Bismarck,ND,Des Moines,IA,670,34876
+Bismarck,ND,Boise,ID,1026,54073
+Bismarck,ND,Springfield,IL,953,49857
+Bismarck,ND,Indianapolis,IN,1021,53850
+Bismarck,ND,Topeka,KS,768,40424
+Bismarck,ND,Frankfort,KY 40601,1189,62864
+Bismarck,ND,Baton Rouge,LA,1552,84108
+Bismarck,ND,Boston,MA,1818,97327
+Bismarck,ND,Annapolis,MD,1556,83382
+Bismarck,ND,Augusta,ME 04330,1971,105256
+Bismarck,ND,Lansing,MI,1059,55824
+Bismarck,ND,St Paul,MN,438,22995
+Bismarck,ND,Jefferson City,MO,944,48876
+Bismarck,ND,Jackson,MS,1446,77151
+Bismarck,ND,Helena,MT,613,33192
+Bismarck,ND,Raleigh,NC,1647,88502
+Bismarck,ND,Lincoln,NE,663,33698
+Bismarck,ND,Concord,NH,1795,98886
+Bismarck,ND,Trenton,NJ,1611,85800
+Bismarck,ND,Santa Fe,NM,1042,57449
+Bismarck,ND,Carson City,NV,1389,73468
+Bismarck,ND,Albany,NY,1652,88173
+Lincoln,NE,Montgomery,AL,979,54124
+Lincoln,NE,Little Rock,AR,621,33186
+Lincoln,NE,Phoenix,AZ,1250,68371
+Lincoln,NE,Sacramento,CA,1527,79382
+Lincoln,NE,Denver,CO,485,24821
+Lincoln,NE,Hartford,CT,1397,75416
+Lincoln,NE,Dover,DE,1290,70349
+Lincoln,NE,Tallahassee,FL,1190,67306
+Lincoln,NE,Atlanta,GA,995,53572
+Lincoln,NE,Des Moines,IA,190,10203
+Lincoln,NE,Boise,ID,1175,60669
+Lincoln,NE,Springfield,IL,432,23932
+Lincoln,NE,Indianapolis,IN,643,35342
+Lincoln,NE,Topeka,KS,168,10363
+Lincoln,NE,Frankfort,KY 40601,753,40973
+Lincoln,NE,Baton Rouge,LA,960,54823
+Lincoln,NE,Boston,MA,1491,80381
+Lincoln,NE,Annapolis,MD,1230,66436
+Lincoln,NE,Augusta,ME 04330,1645,88310
+Lincoln,NE,Lansing,MI,724,38751
+Lincoln,NE,St Paul,MN,437,22899
+Lincoln,NE,Jefferson City,MO,352,19591
+Lincoln,NE,Jackson,MS,855,47866
+Lincoln,NE,Helena,MT,1088,57848
+Concord,NH,Montgomery,AL,1286,70268
+Concord,NH,Little Rock,AR,1504,80989
+Concord,NH,Phoenix,AZ,2631,142927
+Concord,NH,Sacramento,CA,2993,161007
+Concord,NH,Denver,CO,1952,106446
+Concord,NH,Hartford,CT,151,8494
+Concord,NH,Dover,DE,431,24353
+Concord,NH,Tallahassee,FL,1357,72697
+Concord,NH,Atlanta,GA,1125,61819
+Concord,NH,Des Moines,IA,1281,72425
+Concord,NH,Boise,ID,2642,142294
+Concord,NH,Springfield,IL,1138,64993
+Concord,NH,Indianapolis,IN,930,53335
+Concord,NH,Topeka,KS,1476,82112
+Concord,NH,Frankfort,KY 40601,941,54563
+Concord,NH,Baton Rouge,LA,1633,87629
+Concord,NH,Boston,MA,67.5,3930
+Concord,NH,Annapolis,MD,473,26966
+Concord,NH,Augusta,ME 04330,163,8936
+Concord,NH,Lansing,MI,756,44597
+Concord,NH,St Paul,MN,1360,76396
+Concord,NH,Jefferson City,MO,1298,72833
+Concord,NH,Jackson,MS,1470,79285
+Concord,NH,Helena,MT,2407,131720
+Concord,NH,Lincoln,NE,1470,82280
+Concord,NH,Carson City,NV,2890,154944
+Trenton,NJ,Montgomery,AL,968,52430
+Trenton,NJ,Little Rock,AR,1190,63359
+Trenton,NJ,Phoenix,AZ,2365,126128
+Trenton,NJ,Sacramento,CA,2809,147757
+Trenton,NJ,Denver,CO,1750,92868
+Trenton,NJ,Hartford,CT,183,11068
+Trenton,NJ,Dover,DE,112,6515
+Trenton,NJ,Tallahassee,FL,1038,54859
+Trenton,NJ,Atlanta,GA,807,43981
+Trenton,NJ,Des Moines,IA,1097,59174
+Trenton,NJ,Boise,ID,2458,129043
+Trenton,NJ,Springfield,IL,872,48077
+Trenton,NJ,Indianapolis,IN,663,36536
+Trenton,NJ,Topeka,KS,1209,65312
+Trenton,NJ,Frankfort,KY 40601,676,37105
+Trenton,NJ,Baton Rouge,LA,1320,70000
+Trenton,NJ,Boston,MA,281,16647
+Trenton,NJ,Annapolis,MD,154,9128
+Trenton,NJ,Augusta,ME 04330,435,24576
+Trenton,NJ,Lansing,MI,668,35992
+Trenton,NJ,St Paul,MN,1176,63146
+Trenton,NJ,Jefferson City,MO,1032,56033
+Trenton,NJ,Jackson,MS,1156,61655
+Trenton,NJ,Helena,MT,2223,118470
+Trenton,NJ,Lincoln,NE,1286,69029
+Trenton,NJ,Concord,NH,330,19086
+Trenton,NJ,Carson City,NV,2706,141694
+Santa Fe,NM,Montgomery,AL,1332,69150
+Santa Fe,NM,Little Rock,AR,872,45343
+Santa Fe,NM,Phoenix,AZ,482,26931
+Santa Fe,NM,Sacramento,CA,1141,61201
+Santa Fe,NM,Denver,CO,392,20795
+Santa Fe,NM,Hartford,CT,2111,112276
+Santa Fe,NM,Dover,DE,1937,104209
+Santa Fe,NM,Tallahassee,FL,1472,79541
+Santa Fe,NM,Atlanta,GA,1390,72352
+Santa Fe,NM,Des Moines,IA,955,52323
+Santa Fe,NM,Boise,ID,963,53766
+Santa Fe,NM,Springfield,IL,1071,58738
+Santa Fe,NM,Indianapolis,IN,1274,67030
+Santa Fe,NM,Topeka,KS,691,39185
+Santa Fe,NM,Frankfort,KY 40601,1344,70735
+Santa Fe,NM,Baton Rouge,LA,1049,57093
+Santa Fe,NM,Boston,MA,2212,117957
+Santa Fe,NM,Annapolis,MD,1876,100296
+Santa Fe,NM,Augusta,ME 04330,2365,125886
+Santa Fe,NM,Lansing,MI,1461,79618
+Santa Fe,NM,St Paul,MN,1202,64981
+Santa Fe,NM,Jefferson City,MO,892,49974
+Santa Fe,NM,Jackson,MS,1039,55746
+Santa Fe,NM,Helena,MT,1182,61115
+Santa Fe,NM,Lincoln,NE,777,43187
+Santa Fe,NM,Concord,NH,2204,119714
+Santa Fe,NM,Trenton,NJ,1938,103093
+Santa Fe,NM,Carson City,NV,1068,58111
+Carson City,NV,Montgomery,AL,2345,123461
+Carson City,NV,Little Rock,AR,1885,99653
+Carson City,NV,Phoenix,AZ,731,41815
+Carson City,NV,Sacramento,CA,130,9312
+Carson City,NV,Denver,CO,991,55796
+Carson City,NV,Hartford,CT,2814,148448
+Carson City,NV,Dover,DE,2707,143381
+Carson City,NV,Tallahassee,FL,2485,133851
+Carson City,NV,Atlanta,GA,2414,126787
+Carson City,NV,Des Moines,IA,1606,83235
+Carson City,NV,Boise,ID,450,25153
+Carson City,NV,Springfield,IL,1851,97147
+Carson City,NV,Indianapolis,IN,2082,108568
+Carson City,NV,Topeka,KS,1588,82701
+Carson City,NV,Frankfort,KY 40601,2172,114188
+Carson City,NV,Baton Rouge,LA,2062,111403
+Carson City,NV,Boston,MA,2907,153413
+Carson City,NV,Annapolis,MD,2646,139468
+Carson City,NV,Augusta,ME 04330,3061,161342
+Carson City,NV,Lansing,MI,2140,111784
+Carson City,NV,St Paul,MN,1793,94089
+Carson City,NV,Jefferson City,MO,1771,92806
+Carson City,NV,Jackson,MS,2052,110056
+Carson City,NV,Helena,MT,910,47822
+Carson City,NV,Lincoln,NE,1421,73787
+Albany,NY,Montgomery,AL,1171,62596
+Albany,NY,Little Rock,AR,1338,71480
+Albany,NY,Phoenix,AZ,2489,132200
+Albany,NY,Sacramento,CA,2852,150280
+Albany,NY,Denver,CO,1810,95718
+Albany,NY,Hartford,CT,112,6390
+Albany,NY,Dover,DE,307,16890
+Albany,NY,Tallahassee,FL,1232,65234
+Albany,NY,Atlanta,GA,1004,54404
+Albany,NY,Des Moines,IA,1140,61698
+Albany,NY,Boise,ID,2500,131566
+Albany,NY,Springfield,IL,996,54265
+Albany,NY,Indianapolis,IN,788,42608
+Albany,NY,Topeka,KS,1334,71384
+Albany,NY,Frankfort,KY 40601,800,43836
+Albany,NY,Baton Rouge,LA,1486,79030
+Albany,NY,Boston,MA,169,9696
+Albany,NY,Annapolis,MD,348,19503
+Albany,NY,Augusta,ME 04330,323,17625
+Albany,NY,Lansing,MI,614,33869
+Albany,NY,St Paul,MN,1218,65669
+Albany,NY,Jefferson City,MO,1157,62105
+Albany,NY,Jackson,MS,1323,70686
+Albany,NY,Helena,MT,2265,120993
+Albany,NY,Lincoln,NE,1328,71553
+Albany,NY,Concord,NH,148,11332
+Albany,NY,Trenton,NJ,204,11539
+Albany,NY,Santa Fe,NM,2063,108954
+Albany,NY,Carson City,NV,2748,144217
+Columbus,OH,Montgomery,AL,658,34719
+Columbus,OH,Little Rock,AR,724,38619
+Columbus,OH,Phoenix,AZ,1877,99289
+Columbus,OH,Sacramento,CA,2360,123450
+Columbus,OH,Denver,CO,1262,66028
+Columbus,OH,Hartford,CT,662,36195
+Columbus,OH,Dover,DE,486,28118
+Columbus,OH,Tallahassee,FL,828,45635
+Columbus,OH,Atlanta,GA,567,30085
+Columbus,OH,Des Moines,IA,648,34867
+Columbus,OH,Boise,ID,2009,104736
+Columbus,OH,Springfield,IL,384,21237
+Columbus,OH,Indianapolis,IN,175,9696
+Columbus,OH,Topeka,KS,721,38473
+Columbus,OH,Frankfort,KY 40601,186,10975
+Columbus,OH,Baton Rouge,LA,967,50789
+Columbus,OH,Boston,MA,762,41876
+Columbus,OH,Annapolis,MD,426,24205
+Columbus,OH,Augusta,ME 04330,916,49805
+Columbus,OH,Lansing,MI,254,14177
+Columbus,OH,St Paul,MN,755,40122
+Columbus,OH,Jefferson City,MO,544,29194
+Columbus,OH,Jackson,MS,790,42009
+Columbus,OH,Helena,MT,1802,95446
+Columbus,OH,Raleigh,NC,479,27334
+Columbus,OH,Bismarck,ND,1191,62773
+Columbus,OH,Lincoln,NE,815,44609
+Columbus,OH,Concord,NH,755,43633
+Columbus,OH,Trenton,NJ,488,27002
+Columbus,OH,Santa Fe,NM,1450,76043
+Columbus,OH,Carson City,NV,2257,117387
+Columbus,OH,Albany,NY,612,32920
+Oklahoma City,OK,Montgomery,AL,799,41337
+Oklahoma City,OK,Little Rock,AR,339,17530
+Oklahoma City,OK,Phoenix,AZ,961,51311
+Oklahoma City,OK,Sacramento,CA,1621,85581
+Oklahoma City,OK,Denver,CO,678,34862
+Oklahoma City,OK,Hartford,CT,1577,84519
+Oklahoma City,OK,Dover,DE,1403,76452
+Oklahoma City,OK,Tallahassee,FL,1010,54519
+Oklahoma City,OK,Atlanta,GA,857,44538
+Oklahoma City,OK,Des Moines,IA,545,28392
+Oklahoma City,OK,Boise,ID,1483,76677
+Oklahoma City,OK,Springfield,IL,594,31459
+Oklahoma City,OK,Indianapolis,IN,740,39273
+Oklahoma City,OK,Topeka,KS,293,15489
+Oklahoma City,OK,Frankfort,KY 40601,810,42978
+Oklahoma City,OK,Baton Rouge,LA,616,33353
+Oklahoma City,OK,Boston,MA,1678,90200
+Oklahoma City,OK,Annapolis,MD,1342,72540
+Oklahoma City,OK,Augusta,ME 04330,1831,98129
+Oklahoma City,OK,Lansing,MI,984,52330
+Oklahoma City,OK,St Paul,MN,792,41049
+Oklahoma City,OK,Jefferson City,MO,419,22620
+Oklahoma City,OK,Jackson,MS,605,32005
+Oklahoma City,OK,Helena,MT,1459,74494
+Oklahoma City,OK,Raleigh,NC,1215,64439
+Oklahoma City,OK,Bismarck,ND,928,52692
+Oklahoma City,OK,Lincoln,NE,436,23130
+Oklahoma City,OK,Concord,NH,1670,91958
+Oklahoma City,OK,Trenton,NJ,1405,75336
+Oklahoma City,OK,Santa Fe,NM,535,28065
+Oklahoma City,OK,Carson City,NV,1547,82491
+Oklahoma City,OK,Albany,NY,1527,81245
+Oklahoma City,OK,Columbus,OH,918,48656
+Salem,OR,Montgomery,AL,2624,139899
+Salem,OR,Little Rock,AR,2241,117084
+Salem,OR,Phoenix,AZ,1290,70959
+Salem,OR,Sacramento,CA,536,30105
+Salem,OR,Denver,CO,1286,68820
+Salem,OR,Hartford,CT,3040,161008
+Salem,OR,Dover,DE,2933,155941
+Salem,OR,Tallahassee,FL,2835,153081
+Salem,OR,Atlanta,GA,2640,139347
+Salem,OR,Des Moines,IA,1832,95795
+Salem,OR,Boise,ID,475,26183
+Salem,OR,Springfield,IL,2077,109707
+Salem,OR,Indianapolis,IN,2308,121128
+Salem,OR,Topeka,KS,1815,95261
+Salem,OR,Frankfort,KY 40601,2398,126748
+Salem,OR,Baton Rouge,LA,2487,133788
+Salem,OR,Boston,MA,3134,165973
+Salem,OR,Annapolis,MD,2872,152028
+Salem,OR,Augusta,ME 04330,3287,173902
+Salem,OR,Lansing,MI,2366,124344
+Salem,OR,St Paul,MN,1786,93408
+Salem,OR,Jefferson City,MO,1997,105366
+Salem,OR,Jackson,MS,2496,132049
+Salem,OR,Helena,MT,706,39004
+Salem,OR,Raleigh,NC,2909,154672
+Salem,OR,Bismarck,ND,1350,70939
+Salem,OR,Lincoln,NE,1647,86347
+Salem,OR,Concord,NH,3111,167532
+Salem,OR,Trenton,NJ,2927,154445
+Salem,OR,Santa Fe,NM,1434,78958
+Salem,OR,Carson City,NV,517,31132
+Salem,OR,Albany,NY,2968,156819
+Salem,OR,Columbus,OH,2480,130343
+Salem,OR,Oklahoma City,OK,1953,102426
+Harrisburg,PA,Montgomery,AL,882,46935
+Harrisburg,PA,Little Rock,AR,1067,56729
+Harrisburg,PA,Phoenix,AZ,2244,119988
+Harrisburg,PA,Sacramento,CA,2688,141617
+Harrisburg,PA,Denver,CO,1629,86728
+Harrisburg,PA,Hartford,CT,292,16819
+Harrisburg,PA,Dover,DE,129,9554
+Harrisburg,PA,Tallahassee,FL,981,51772
+Harrisburg,PA,Atlanta,GA,715,38743
+Harrisburg,PA,Des Moines,IA,976,53034
+Harrisburg,PA,Boise,ID,2337,122903
+Harrisburg,PA,Springfield,IL,751,41937
+Harrisburg,PA,Indianapolis,IN,542,30396
+Harrisburg,PA,Topeka,KS,1088,59172
+Harrisburg,PA,Frankfort,KY 40601,562,30671
+Harrisburg,PA,Baton Rouge,LA,1197,63369
+Harrisburg,PA,Boston,MA,390,22398
+Harrisburg,PA,Annapolis,MD,112,6964
+Harrisburg,PA,Augusta,ME 04330,544,30327
+Harrisburg,PA,Lansing,MI,547,29852
+Harrisburg,PA,St Paul,MN,1055,57006
+Harrisburg,PA,Jefferson City,MO,911,49893
+Harrisburg,PA,Jackson,MS,1033,55025
+Harrisburg,PA,Helena,MT,2102,112330
+Harrisburg,PA,Raleigh,NC,389,21653
+Harrisburg,PA,Bismarck,ND,1491,79657
+Harrisburg,PA,Lincoln,NE,1165,62889
+Harrisburg,PA,Concord,NH,439,24838
+Harrisburg,PA,Trenton,NJ,126,7354
+Harrisburg,PA,Santa Fe,NM,1817,96742
+Harrisburg,PA,Carson City,NV,2585,135554
+Harrisburg,PA,Albany,NY,293,16458
+Harrisburg,PA,Columbus,OH,368,21007
+Harrisburg,PA,Oklahoma City,OK,1284,69239
+Harrisburg,PA,Salem,OR,2809,148357
+Providence,RI,Montgomery,AL,1204,65832
+Providence,RI,Little Rock,AR,1421,76440
+Providence,RI,Phoenix,AZ,2614,139278
+Providence,RI,Sacramento,CA,2999,158272
+Providence,RI,Denver,CO,1957,103711
+Providence,RI,Hartford,CT,86.2,5522
+Providence,RI,Dover,DE,348,19918
+Providence,RI,Tallahassee,FL,1274,68261
+Providence,RI,Atlanta,GA,1043,57383
+Providence,RI,Des Moines,IA,1287,69690
+Providence,RI,Boise,ID,2647,139559
+Providence,RI,Springfield,IL,1122,61226
+Providence,RI,Indianapolis,IN,913,49685
+Providence,RI,Topeka,KS,1459,78462
+Providence,RI,Frankfort,KY 40601,915,50383
+Providence,RI,Baton Rouge,LA,1551,83081
+Providence,RI,Boston,MA,50.9,3520
+Providence,RI,Annapolis,MD,390,22530
+Providence,RI,Augusta,ME 04330,217,12072
+Providence,RI,Lansing,MI,772,42743
+Providence,RI,St Paul,MN,1365,73661
+Providence,RI,Jefferson City,MO,1281,69183
+Providence,RI,Jackson,MS,1387,74737
+Providence,RI,Helena,MT,2412,128986
+Providence,RI,Raleigh,NC,683,38142
+Providence,RI,Bismarck,ND,1801,96313
+Providence,RI,Lincoln,NE,1475,79545
+Providence,RI,Concord,NH,116,6732
+Providence,RI,Trenton,NJ,246,14567
+Providence,RI,Santa Fe,NM,2188,116031
+Providence,RI,Carson City,NV,2895,152210
+Providence,RI,Albany,NY,163,9418
+Providence,RI,Columbus,OH,739,40338
+Providence,RI,Oklahoma City,OK,1655,88529
+Providence,RI,Salem,OR,3119,165013
+Providence,RI,Harrisburg,PA,358,20405
+Columbia,SC,Montgomery,AL,369,19355
+Columbia,SC,Little Rock,AR,732,38765
+Columbia,SC,Phoenix,AZ,2021,106338
+Columbia,SC,Sacramento,CA,2680,140609
+Columbia,SC,Denver,CO,1595,83946
+Columbia,SC,Hartford,CT,828,45368
+Columbia,SC,Dover,DE,576,31691
+Columbia,SC,Tallahassee,FL,381,23184
+Columbia,SC,Atlanta,GA,214,11348
+Columbia,SC,Des Moines,IA,1092,58486
+Columbia,SC,Boise,ID,2361,124300
+Columbia,SC,Springfield,IL,811,43886
+Columbia,SC,Indianapolis,IN,618,33579
+Columbia,SC,Topeka,KS,1055,56391
+Columbia,SC,Frankfort,KY 40601,458,25203
+Columbia,SC,Baton Rouge,LA,734,37937
+Columbia,SC,Boston,MA,926,50947
+Columbia,SC,Annapolis,MD,516,27778
+Columbia,SC,Augusta,ME 04330,1080,58876
+Columbia,SC,Lansing,MI,768,43161
+Columbia,SC,St Paul,MN,1202,64262
+Columbia,SC,Jefferson City,MO,878,47112
+Columbia,SC,Jackson,MS,595,31143
+Columbia,SC,Helena,MT,2247,119315
+Columbia,SC,Raleigh,NC,230,12649
+Columbia,SC,Bismarck,ND,1638,86913
+Columbia,SC,Lincoln,NE,1188,64232
+Columbia,SC,Concord,NH,976,53387
+Columbia,SC,Trenton,NJ,656,35665
+Columbia,SC,Santa Fe,NM,1594,83092
+Columbia,SC,Carson City,NV,2610,136950
+Columbia,SC,Albany,NY,851,46103
+Columbia,SC,Columbus,OH,516,29297
+Columbia,SC,Oklahoma City,OK,1061,55589
+Columbia,SC,Salem,OR,2833,149754
+Columbia,SC,Harrisburg,PA,570,31061
+Columbia,SC,Providence,RI,892,49255
+Pierre,SD 57501,Montgomery,AL,1363,73286
+Pierre,SD 57501,Little Rock,AR,1005,52348
+Pierre,SD 57501,Phoenix,AZ,1340,72892
+Pierre,SD 57501,Sacramento,CA,1465,77876
+Pierre,SD 57501,Denver,CO,523,28374
+Pierre,SD 57501,Hartford,CT,1679,89614
+Pierre,SD 57501,Dover,DE,1572,84546
+Pierre,SD 57501,Tallahassee,FL,1574,86468
+Pierre,SD 57501,Atlanta,GA,1380,72734
+Pierre,SD 57501,Des Moines,IA,502,25917
+Pierre,SD 57501,Boise,ID,1092,58969
+Pierre,SD 57501,Springfield,IL,817,43094
+Pierre,SD 57501,Indianapolis,IN,975,51101
+Pierre,SD 57501,Topeka,KS,561,30300
+Pierre,SD 57501,Frankfort,KY 40601,1124,59586
+Pierre,SD 57501,Baton Rouge,LA,1345,73464
+Pierre,SD 57501,Boston,MA,1772,94578
+Pierre,SD 57501,Annapolis,MD,1511,80634
+Pierre,SD 57501,Augusta,ME 04330,1926,102508
+Pierre,SD 57501,Lansing,MI,1014,53075
+Pierre,SD 57501,St Paul,MN,400,24557
+Pierre,SD 57501,Jefferson City,MO,737,38753
+Pierre,SD 57501,Jackson,MS,1239,67028
+Pierre,SD 57501,Helena,MT,701,39002
+Pierre,SD 57501,Raleigh,NC,1601,85753
+Pierre,SD 57501,Bismarck,ND,205,12280
+Pierre,SD 57501,Lincoln,NE,392,23177
+Pierre,SD 57501,Concord,NH,1749,96137
+Pierre,SD 57501,Trenton,NJ,1566,83051
+Pierre,SD 57501,Santa Fe,NM,867,47210
+Pierre,SD 57501,Carson City,NV,1362,71814
+Pierre,SD 57501,Albany,NY,1607,85424
+Pierre,SD 57501,Columbus,OH,1149,60149
+Pierre,SD 57501,Oklahoma City,OK,733,40760
+Pierre,SD 57501,Salem,OR,1397,76534
+Pierre,SD 57501,Harrisburg,PA,1445,76875
+Pierre,SD 57501,Providence,RI,1755,93786
+Pierre,SD 57501,Columbia,SC,1572,83414
+Nashville,TN,Montgomery,AL,280,14648
+Nashville,TN,Little Rock,AR,349,18711
+Nashville,TN,Phoenix,AZ,1637,86284
+Nashville,TN,Sacramento,CA,2275,119460
+Nashville,TN,Denver,CO,1158,60394
+Nashville,TN,Hartford,CT,1006,54529
+Nashville,TN,Dover,DE,765,41877
+Nashville,TN,Tallahassee,FL,491,27829
+Nashville,TN,Atlanta,GA,250,13615
+Nashville,TN,Des Moines,IA,648,35910
+Nashville,TN,Boise,ID,1924,100747
+Nashville,TN,Springfield,IL,373,20333
+Nashville,TN,Indianapolis,IN,289,15772
+Nashville,TN,Topeka,KS,617,32838
+Nashville,TN,Frankfort,KY 40601,210,11819
+Nashville,TN,Baton Rouge,LA,589,30718
+Nashville,TN,Boston,MA,1105,60108
+Nashville,TN,Annapolis,MD,704,37965
+Nashville,TN,Augusta,ME 04330,1258,68037
+Nashville,TN,Lansing,MI,539,28978
+Nashville,TN,St Paul,MN,873,45650
+Nashville,TN,Jefferson City,MO,440,23559
+Nashville,TN,Jackson,MS,415,22100
+Nashville,TN,Helena,MT,1809,95763
+Nashville,TN,Raleigh,NC,539,29444
+Nashville,TN,Bismarck,ND,1309,68302
+Nashville,TN,Lincoln,NE,750,40679
+Nashville,TN,Concord,NH,1154,62548
+Nashville,TN,Trenton,NJ,842,45055
+Nashville,TN,Santa Fe,NM,1211,63038
+Nashville,TN,Carson City,NV,2172,113397
+Nashville,TN,Albany,NY,992,53282
+Nashville,TN,Columbus,OH,380,20514
+Nashville,TN,Oklahoma City,OK,678,35535
+Nashville,TN,Salem,OR,2396,126201
+Nashville,TN,Harrisburg,PA,720,38482
+Nashville,TN,Providence,RI,1072,58294
+Nashville,TN,Columbia,SC,442,24295
+Nashville,TN,Pierre,SD 57501,1134,59745
+Austin,TX,Montgomery,AL,794,42018
+Austin,TX,Little Rock,AR,513,27159
+Austin,TX,Phoenix,AZ,1006,53512
+Austin,TX,Sacramento,CA,1760,93887
+Austin,TX,Denver,CO,929,50860
+Austin,TX,Hartford,CT,1864,99561
+Austin,TX,Dover,DE,1622,86909
+Austin,TX,Tallahassee,FL,870,46027
+Austin,TX,Atlanta,GA,930,49927
+Austin,TX,Des Moines,IA,929,48430
+Austin,TX,Boise,ID,1637,90859
+Austin,TX,Springfield,IL,920,50656
+Austin,TX,Indianapolis,IN,1094,57771
+Austin,TX,Topeka,KS,677,35528
+Austin,TX,Frankfort,KY 40601,1065,56674
+Austin,TX,Baton Rouge,LA,428,23396
+Austin,TX,Boston,MA,1962,105140
+Austin,TX,Annapolis,MD,1562,82996
+Austin,TX,Augusta,ME 04330,2116,113069
+Austin,TX,Lansing,MI,1346,71248
+Austin,TX,St Paul,MN,1176,61088
+Austin,TX,Jefferson City,MO,746,41817
+Austin,TX,Jackson,MS,551,30391
+Austin,TX,Helena,MT,1718,91180
+Austin,TX,Raleigh,NC,1336,71853
+Austin,TX,Bismarck,ND,1312,72730
+Austin,TX,Lincoln,NE,820,43168
+Austin,TX,Concord,NH,2011,107579
+Austin,TX,Trenton,NJ,1699,90086
+Austin,TX,Santa Fe,NM,697,39138
+Austin,TX,Carson City,NV,1710,93564
+Austin,TX,Albany,NY,1847,98137
+Austin,TX,Columbus,OH,1235,65370
+Austin,TX,Oklahoma City,OK,388,20643
+Austin,TX,Salem,OR,2109,116313
+Austin,TX,Harrisburg,PA,1577,83513
+Austin,TX,Providence,RI,1930,103326
+Austin,TX,Columbia,SC,1144,61077
+Austin,TX,Pierre,SD 57501,1117,60760
+Austin,TX,Nashville,TN,858,45445
+Salt Lake City,UT,Montgomery,AL,1856,99614
+Salt Lake City,UT,Little Rock,AR,1474,76799
+Salt Lake City,UT,Phoenix,AZ,663,36826
+Salt Lake City,UT,Sacramento,CA,649,34197
+Salt Lake City,UT,Denver,CO,518,28534
+Salt Lake City,UT,Hartford,CT,2273,120722
+Salt Lake City,UT,Dover,DE,2165,115655
+Salt Lake City,UT,Tallahassee,FL,2067,112796
+Salt Lake City,UT,Atlanta,GA,1873,99062
+Salt Lake City,UT,Des Moines,IA,1065,55510
+Salt Lake City,UT,Boise,ID,339,17697
+Salt Lake City,UT,Springfield,IL,1310,69422
+Salt Lake City,UT,Indianapolis,IN,1541,80842
+Salt Lake City,UT,Topeka,KS,1047,54975
+Salt Lake City,UT,Frankfort,KY 40601,1631,86462
+Salt Lake City,UT,Baton Rouge,LA,1652,91542
+Salt Lake City,UT,Boston,MA,2366,125687
+Salt Lake City,UT,Annapolis,MD,2105,111743
+Salt Lake City,UT,Augusta,ME 04330,2520,133616
+Salt Lake City,UT,Lansing,MI,1599,84058
+Salt Lake City,UT,St Paul,MN,1252,66363
+Salt Lake City,UT,Jefferson City,MO,1229,65081
+Salt Lake City,UT,Jackson,MS,1642,90195
+Salt Lake City,UT,Helena,MT,484,24882
+Salt Lake City,UT,Raleigh,NC,2141,114386
+Salt Lake City,UT,Bismarck,ND,924,50111
+Salt Lake City,UT,Lincoln,NE,880,46061
+Salt Lake City,UT,Concord,NH,2343,127246
+Salt Lake City,UT,Trenton,NJ,2160,114160
+Salt Lake City,UT,Santa Fe,NM,625,36445
+Salt Lake City,UT,Carson City,NV,546,28134
+Salt Lake City,UT,Albany,NY,2200,116533
+Salt Lake City,UT,Columbus,OH,1712,90057
+Salt Lake City,UT,Oklahoma City,OK,1186,62140
+Salt Lake City,UT,Salem,OR,811,43151
+Salt Lake City,UT,Harrisburg,PA,2039,107984
+Salt Lake City,UT,Providence,RI,2349,124895
+Salt Lake City,UT,Columbia,SC,2065,109742
+Salt Lake City,UT,Pierre,SD 57501,817,44515
+Salt Lake City,UT,Nashville,TN,1627,86027
+Salt Lake City,UT,Austin,TX,1289,73592
+Richmond,VA,Montgomery,AL,691,36844
+Richmond,VA,Little Rock,AR,962,51011
+Richmond,VA,Phoenix,AZ,2250,118584
+Richmond,VA,Sacramento,CA,2788,147108
+Richmond,VA,Denver,CO,1670,88041
+Richmond,VA,Hartford,CT,456,25918
+Richmond,VA,Dover,DE,204,12241
+Richmond,VA,Tallahassee,FL,762,39273
+Richmond,VA,Atlanta,GA,530,28395
+Richmond,VA,Des Moines,IA,1099,59742
+Richmond,VA,Boise,ID,2436,128394
+Richmond,VA,Springfield,IL,835,46113
+Richmond,VA,Indianapolis,IN,626,34572
+Richmond,VA,Topeka,KS,1130,60486
+Richmond,VA,Frankfort,KY 40601,514,28191
+Richmond,VA,Baton Rouge,LA,1056,55427
+Richmond,VA,Boston,MA,554,31497
+Richmond,VA,Annapolis,MD,143,8328
+Richmond,VA,Augusta,ME 04330,707,39426
+Richmond,VA,Lansing,MI,688,37582
+Richmond,VA,St Paul,MN,1196,64736
+Richmond,VA,Jefferson City,MO,952,51207
+Richmond,VA,Jackson,MS,912,48428
+Richmond,VA,Helena,MT,2243,120060
+Richmond,VA,Raleigh,NC,170,9154
+Richmond,VA,Bismarck,ND,1632,87387
+Richmond,VA,Lincoln,NE,1263,68326
+Richmond,VA,Concord,NH,603,33937
+Richmond,VA,Trenton,NJ,283,16215
+Richmond,VA,Santa Fe,NM,1824,95338
+Richmond,VA,Carson City,NV,2684,141045
+Richmond,VA,Albany,NY,478,26653
+Richmond,VA,Columbus,OH,477,26746
+Richmond,VA,Oklahoma City,OK,1290,67835
+Richmond,VA,Salem,OR,2908,153848
+Richmond,VA,Harrisburg,PA,220,12886
+Richmond,VA,Providence,RI,519,29805
+Richmond,VA,Columbia,SC,371,19367
+Richmond,VA,Pierre,SD 57501,1586,84666
+Richmond,VA,Nashville,TN,614,32764
+Richmond,VA,Austin,TX,1471,77461
+Richmond,VA,Salt Lake City,UT,2141,113411
+Richmond,VA,Montpelier,VT 05602,654,36508
+Montpelier,VT 05602,Montgomery,AL,1336,72786
+Montpelier,VT 05602,Little Rock,AR,1470,81253
+Montpelier,VT 05602,Phoenix,AZ,2622,141973
+Montpelier,VT 05602,Sacramento,CA,2984,160053
+Montpelier,VT 05602,Denver,CO,1942,105491
+Montpelier,VT 05602,Hartford,CT,199,10922
+Montpelier,VT 05602,Dover,DE,481,26871
+Montpelier,VT 05602,Tallahassee,FL,1406,75215
+Montpelier,VT 05602,Atlanta,GA,1175,64337
+Montpelier,VT 05602,Des Moines,IA,1272,71470
+Montpelier,VT 05602,Boise,ID,2633,141339
+Montpelier,VT 05602,Springfield,IL,1129,64038
+Montpelier,VT 05602,Indianapolis,IN,920,52380
+Montpelier,VT 05602,Topeka,KS,1466,81157
+Montpelier,VT 05602,Frankfort,KY 40601,932,53609
+Montpelier,VT 05602,Baton Rouge,LA,1642,90020
+Montpelier,VT 05602,Boston,MA,180,9885
+Montpelier,VT 05602,Annapolis,MD,522,29484
+Montpelier,VT 05602,Augusta,ME 04330,180,13682
+Montpelier,VT 05602,Lansing,MI,746,43642
+Montpelier,VT 05602,St Paul,MN,1351,75442
+Montpelier,VT 05602,Jefferson City,MO,1289,71878
+Montpelier,VT 05602,Jackson,MS,1479,81676
+Montpelier,VT 05602,Helena,MT,2398,130766
+Montpelier,VT 05602,Raleigh,NC,815,45095
+Montpelier,VT 05602,Bismarck,ND,1787,98093
+Montpelier,VT 05602,Lincoln,NE,1461,81326
+Montpelier,VT 05602,Concord,NH,116,6491
+Montpelier,VT 05602,Trenton,NJ,378,21520
+Montpelier,VT 05602,Santa Fe,NM,2195,118727
+Montpelier,VT 05602,Carson City,NV,2881,153990
+Montpelier,VT 05602,Albany,NY,158,11307
+Montpelier,VT 05602,Columbus,OH,747,43033
+Montpelier,VT 05602,Oklahoma City,OK,1662,91224
+Montpelier,VT 05602,Salem,OR,3105,166793
+Montpelier,VT 05602,Harrisburg,PA,450,27344
+Montpelier,VT 05602,Providence,RI,229,12822
+Montpelier,VT 05602,Columbia,SC,1015,55308
+Montpelier,VT 05602,Pierre,SD 57501,1741,95372
+Montpelier,VT 05602,Nashville,TN,1125,63119
+Montpelier,VT 05602,Austin,TX,1980,107703
+Montpelier,VT 05602,Salt Lake City,UT,2337,126356
+Olympia,WA,Montgomery,AL,2658,142229
+Olympia,WA,Little Rock,AR,2302,119901
+Olympia,WA,Phoenix,AZ,1376,78470
+Olympia,WA,Sacramento,CA,693,38417
+Olympia,WA,Denver,CO,1346,71637
+Olympia,WA,Hartford,CT,2994,158193
+Olympia,WA,Dover,DE,2887,153126
+Olympia,WA,Tallahassee,FL,2869,155411
+Olympia,WA,Atlanta,GA,2674,141677
+Olympia,WA,Des Moines,IA,1797,94861
+Olympia,WA,Boise,ID,536,28999
+Olympia,WA,Springfield,IL,2112,112037
+Olympia,WA,Indianapolis,IN,2291,119681
+Olympia,WA,Topeka,KS,1875,98077
+Olympia,WA,Frankfort,KY 40601,2459,128695
+Olympia,WA,Baton Rouge,LA,2548,136605
+Olympia,WA,Boston,MA,3088,163158
+Olympia,WA,Annapolis,MD,2826,149213
+Olympia,WA,Augusta,ME 04330,3241,171087
+Olympia,WA,Lansing,MI,2329,121655
+Olympia,WA,St Paul,MN,1708,88826
+Olympia,WA,Jefferson City,MO,2031,107696
+Olympia,WA,Jackson,MS,2556,134866
+Olympia,WA,Helena,MT,629,34422
+Olympia,WA,Raleigh,NC,2917,154333
+Olympia,WA,Bismarck,ND,1272,66357
+Olympia,WA,Lincoln,NE,1708,89163
+Olympia,WA,Concord,NH,3065,164717
+Olympia,WA,Trenton,NJ,2881,151630
+Olympia,WA,Santa Fe,NM,1494,81775
+Olympia,WA,Carson City,NV,674,39444
+Olympia,WA,Albany,NY,2922,154004
+Olympia,WA,Columbus,OH,2464,128728
+Olympia,WA,Oklahoma City,OK,2013,105242
+Olympia,WA,Salem,OR,160,9145
+Olympia,WA,Harrisburg,PA,2761,145455
+Olympia,WA,Providence,RI,3070,162365
+Olympia,WA,Columbia,SC,2867,152357
+Olympia,WA,Pierre,SD 57501,1320,71874
+Olympia,WA,Nashville,TN,2429,128643
+Olympia,WA,Austin,TX,2158,118922
+Olympia,WA,Salt Lake City,UT,871,45790
+Olympia,WA,Richmond,VA,2901,153222
+Olympia,WA,Montpelier,VT 05602,3055,163980
+Madison,WI,Montgomery,AL,901,47225
+Madison,WI,Little Rock,AR,707,38284
+Madison,WI,Phoenix,AZ,1691,93631
+Madison,WI,Sacramento,CA,2005,105254
+Madison,WI,Denver,CO,963,50692
+Madison,WI,Hartford,CT,1037,57033
+Madison,WI,Dover,DE,930,51966
+Madison,WI,Tallahassee,FL,1113,60407
+Madison,WI,Atlanta,GA,868,46026
+Madison,WI,Des Moines,IA,293,16671
+Madison,WI,Boise,ID,1653,86540
+Madison,WI,Springfield,IL,266,14528
+Madison,WI,Indianapolis,IN,334,18521
+Madison,WI,Topeka,KS,548,29941
+Madison,WI,Frankfort,KY 40601,502,27535
+Madison,WI,Baton Rouge,LA,1025,53688
+Madison,WI,Boston,MA,1131,61998
+Madison,WI,Annapolis,MD,869,48053
+Madison,WI,Augusta,ME 04330,1284,69927
+Madison,WI,Lansing,MI,372,20494
+Madison,WI,St Paul,MN,259,14185
+Madison,WI,Jefferson City,MO,431,25055
+Madison,WI,Jackson,MS,851,44807
+Madison,WI,Helena,MT,1306,69509
+Madison,WI,Raleigh,NC,960,53173
+Madison,WI,Bismarck,ND,695,36836
+Madison,WI,Lincoln,NE,481,26526
+Madison,WI,Concord,NH,1108,63556
+Madison,WI,Trenton,NJ,924,50470
+Madison,WI,Santa Fe,NM,1240,68378
+Madison,WI,Carson City,NV,1901,99191
+Madison,WI,Albany,NY,965,52843
+Madison,WI,Columbus,OH,507,27568
+Madison,WI,Oklahoma City,OK,834,44817
+Madison,WI,Salem,OR,2042,107460
+Madison,WI,Harrisburg,PA,803,44295
+Madison,WI,Providence,RI,1113,61205
+Madison,WI,Columbia,SC,955,51843
+Madison,WI,Pierre,SD 57501,649,34115
+Madison,WI,Nashville,TN,623,32991
+Madison,WI,Austin,TX,1184,64231
+Madison,WI,Salt Lake City,UT,1358,71557
+Madison,WI,Richmond,VA,944,52062
+Madison,WI,Montpelier,VT 05602,1098,62820
+Madison,WI,Olympia,WA,1965,102714
+Madison,WI,Charleston,WV,643,35331
+Charleston,WV,Montgomery,AL,651,35091
+Charleston,WV,Little Rock,AR,735,39216
+Charleston,WV,Phoenix,AZ,1962,103672
+Charleston,WV,Sacramento,CA,2471,129887
+Charleston,WV,Denver,CO,1354,70820
+Charleston,WV,Hartford,CT,653,35992
+Charleston,WV,Dover,DE,447,24956
+Charleston,WV,Tallahassee,FL,733,42395
+Charleston,WV,Atlanta,GA,502,27812
+Charleston,WV,Des Moines,IA,782,42522
+Charleston,WV,Boise,ID,2120,111174
+Charleston,WV,Springfield,IL,518,28892
+Charleston,WV,Indianapolis,IN,310,17351
+Charleston,WV,Topeka,KS,813,43265
+Charleston,WV,Frankfort,KY 40601,197,10970
+Charleston,WV,Baton Rouge,LA,978,51386
+Charleston,WV,Boston,MA,751,41571
+Charleston,WV,Annapolis,MD,386,21043
+Charleston,WV,Augusta,ME 04330,904,49501
+Charleston,WV,Lansing,MI,413,23390
+Charleston,WV,St Paul,MN,889,47776
+Charleston,WV,Jefferson City,MO,636,33986
+Charleston,WV,Jackson,MS,801,42606
+Charleston,WV,Helena,MT,1936,103100
+Charleston,WV,Raleigh,NC,318,18120
+Charleston,WV,Bismarck,ND,1325,70428
+Charleston,WV,Lincoln,NE,946,51105
+Charleston,WV,Concord,NH,800,44011
+Charleston,WV,Trenton,NJ,480,26268
+Charleston,WV,Santa Fe,NM,1536,80426
+Charleston,WV,Carson City,NV,2368,123824
+Charleston,WV,Albany,NY,654,35631
+Charleston,WV,Columbus,OH,161,9525
+Charleston,WV,Oklahoma City,OK,1003,52923
+Charleston,WV,Salem,OR,2592,136628
+Charleston,WV,Harrisburg,PA,366,19945
+Charleston,WV,Providence,RI,718,39757
+Charleston,WV,Columbia,SC,355,19840
+Charleston,WV,Pierre,SD 57501,1279,67706
+Charleston,WV,Nashville,TN,390,21082
+Charleston,WV,Austin,TX,1245,65666
+Charleston,WV,Salt Lake City,UT,1824,96190
+Charleston,WV,Richmond,VA,316,17388
+Charleston,WV,Montpelier,VT 05602,811,46549
+Charleston,WV,Olympia,WA,2595,136305
+Cheyenne,WY,Montgomery,AL,1419,76601
+Cheyenne,WY,Little Rock,AR,1057,54081
+Cheyenne,WY,Phoenix,AZ,918,50832
+Cheyenne,WY,Sacramento,CA,1087,57116
+Cheyenne,WY,Denver,CO,101,5817
+Cheyenne,WY,Hartford,CT,1836,97710
+Cheyenne,WY,Dover,DE,1729,92643
+Cheyenne,WY,Tallahassee,FL,1630,89783
+Cheyenne,WY,Atlanta,GA,1436,76049
+Cheyenne,WY,Des Moines,IA,628,32497
+Cheyenne,WY,Boise,ID,735,38402
+Cheyenne,WY,Springfield,IL,873,46409
+Cheyenne,WY,Indianapolis,IN,1104,57830
+Cheyenne,WY,Topeka,KS,630,32257
+Cheyenne,WY,Frankfort,KY 40601,1194,63450
+Cheyenne,WY,Baton Rouge,LA,1303,70785
+Cheyenne,WY,Boston,MA,1930,102675
+Cheyenne,WY,Annapolis,MD,1668,88730
+Cheyenne,WY,Augusta,ME 04330,2083,110604
+Cheyenne,WY,Lansing,MI,1162,61046
+Cheyenne,WY,St Paul,MN,817,44401
+Cheyenne,WY,Jefferson City,MO,793,42068
+Cheyenne,WY,Jackson,MS,1312,69046
+Cheyenne,WY,Helena,MT,692,35678
+Cheyenne,WY,Raleigh,NC,1704,91373
+Cheyenne,WY,Bismarck,ND,595,32733
+Cheyenne,WY,Lincoln,NE,443,23049
+Cheyenne,WY,Concord,NH,1907,104234
+Cheyenne,WY,Trenton,NJ,1723,91147
+Cheyenne,WY,Santa Fe,NM,492,25648
+Cheyenne,WY,Carson City,NV,984,51053
+Cheyenne,WY,Albany,NY,1764,93521
+Cheyenne,WY,Columbus,OH,1275,67045
+Cheyenne,WY,Oklahoma City,OK,769,39422
+Cheyenne,WY,Salem,OR,1208,63856
+Cheyenne,WY,Harrisburg,PA,1602,84972
+Cheyenne,WY,Providence,RI,1912,101882
+Cheyenne,WY,Columbia,SC,1628,86729
+Cheyenne,WY,Pierre,SD 57501,424,23663
+Cheyenne,WY,Nashville,TN,1190,63015
+Cheyenne,WY,Austin,TX,1017,55696
+Cheyenne,WY,Salt Lake City,UT,440,23419
+Cheyenne,WY,Richmond,VA,1702,90642
+Cheyenne,WY,Montpelier,VT 05602,1897,103497
+Cheyenne,WY,Olympia,WA,1268,66646
+Cheyenne,WY,Madison,WI,912,48592
+Cheyenne,WY,Charleston,WV,1388,73532
