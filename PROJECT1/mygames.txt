@@ -1,0 +1,20 @@
+Player hand: [2, 4, 11] : 17 Dealer hand: [3, 5, 11] : 19
+Dealer has won!
+Player hand: [6, 8, 11] : 25 Dealer hand: [7, 9, 11] : 27
+Dealer has won!
+Player hand: [11, 3, 11] : 25 Dealer hand: [2, 4, 11] : 17
+Dealer has won!
+Player hand: [5, 7, 11] : 23 Dealer hand: [6, 8, 11] : 25
+Dealer has won!
+Player hand: [9, 2, 11] : 22 Dealer hand: [11, 3, 11] : 25
+Dealer has won!
+Player hand: [4, 6, 11] : 21 Dealer hand: [5, 7, 11] : 23
+Player has won!
+Player hand: [8, 11] : 19 Dealer hand: [9, 2, 11] : 22
+Player has won!
+Player hand: [3, 5, 11] : 19 Dealer hand: [4, 6, 11] : 21
+Dealer has won!
+Player hand: [7, 9] : 16 Dealer hand: [8, 10] : 18
+Dealer has won!
+Player hand: [10, 10] : 20 Dealer hand: [10, 10] : 20
+It's a draw.
